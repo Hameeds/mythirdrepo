@@ -1,5 +1,5 @@
 $ chmod a+x name.sh
 $ ./name.sh Hans-Wolfgang Loidl
 My first name is Hans-Wolfgang
-My surname is Loidlss 
+My surname is Loidl cap
 Total number of arguments is 2
